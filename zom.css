@@ -5,7 +5,7 @@
 }
 
 .Hero_Section{
-    background-image: url(background\ image.avif);
+    background-image: url(images/background/image.avif);
     min-height: 65vh;
     background-size: cover;
     background-position: center;
@@ -175,16 +175,16 @@ margin-right: 9rem;
     position: relative;
 }
 .card1{
-    background-image: url(collection1.avif);
+    background-image: url(images/collection1.avif);
 }
 .card2{
-    background-image: url(collection3.avif);
+    background-image: url(images/collection3.avif);
 }
 .card3{
-    background-image: url(collection2.avif)
+    background-image: url(images/collection2.avif)
 }
 .card4{
-    background-image: url(collection4.avif);
+    background-image: url(images/collection4.avif);
 }
 .overlay{
     width: 100%;
